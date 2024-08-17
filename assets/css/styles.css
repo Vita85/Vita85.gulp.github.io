@@ -1,0 +1,13 @@
+p {
+  border: 2px solid blueviolet;
+  padding: 20px;
+  background-color: aqua;
+  font-size: 24px;
+  box-shadow: 5px 5px 15px #407fab;
+}
+p i {
+  text-transform: uppercase;
+  font-size: 26px;
+  text-decoration: underline;
+  font-style: italic;
+}

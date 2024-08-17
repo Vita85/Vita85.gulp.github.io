@@ -1,0 +1,1 @@
+function add(d,o){console.log(d+o)}add(2,3);
